@@ -57,4 +57,6 @@ My personal portfolio website showcasing my projects, skills, and experience. Bu
 
 ## Contact/Connect Me
 
-Feel free to reach out to me via [email](mailto:pxp6118@mavs.uta.com) for collaboration opportunities or hire me or just to say hello!
+Feel free to reach out to me via [email](mailto:pxp6118@mavs.uta.com) for collaboration opportunities or hire me or just to say hello! 
+I take pleasure in discussing business ideas around anything and believe in going with the flow.
+I used to geek out on software issues before with tech buddies, but not anymore.
