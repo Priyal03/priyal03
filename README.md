@@ -53,7 +53,8 @@ My personal portfolio website showcasing my projects, skills, and experience. Bu
 
 ## Contact/Connect Me
 
-Feel free to reach out to me via [email](mailto:0301priyal@gmail.com) for collaboration or hire me or just to say hello! 
+Feel free to reach out to me via [email](mailto:0301priyal@gmail.com) for collaboration or hire me or just to say hello !! 
 I take pleasure in discussing business ideas around anything especially tech and believe in going with the flow.
-I used to geek out on software issues before with tech buddies, but not anymore.
-I live in Bay Area, would love to connect with like-minded folks.
+I enjoy geeking out on software issues with coworkers.
+I live in Bay Area, would happy to connect with like-minded folks.
+
