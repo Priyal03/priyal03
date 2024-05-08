@@ -42,13 +42,9 @@ Designed and developed the java-based mission critical b2b ecommerce backend sys
 
 A full-stack e-commerce website built with React.js, Node.js, and MongoDB. Users can browse products, add them to the cart, and complete the checkout process.
 
-
-
 ### Project 2: Personal Portfolio Website
 
 My personal portfolio website showcasing my projects, skills, and experience. Built using HTML, CSS, and JavaScript.
-
-
 
 ## Certifications
 
@@ -58,5 +54,6 @@ My personal portfolio website showcasing my projects, skills, and experience. Bu
 ## Contact/Connect Me
 
 Feel free to reach out to me via [email](mailto:0301priyal@gmail.com) for collaboration or hire me or just to say hello! 
-I take pleasure in discussing business ideas around anything and believe in going with the flow.
+I take pleasure in discussing business ideas around anything especially tech and believe in going with the flow.
 I used to geek out on software issues before with tech buddies, but not anymore.
+I live in Bay Area, would love to connect with like-minded folks.
