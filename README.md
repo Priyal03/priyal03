@@ -36,15 +36,6 @@ Designed and developed the java-based mission critical b2b ecommerce backend sys
 - Bachelor of Technology in Computer Science, India
 - Master's of Science in Computer Science, USA
 
-## Projects
-
-### Project 1: E-Commerce Website
-
-A full-stack e-commerce website built with React.js, Node.js, and MongoDB. Users can browse products, add them to the cart, and complete the checkout process.
-
-### Project 2: Personal Portfolio Website
-
-My personal portfolio website showcasing my projects, skills, and experience. Built using HTML, CSS, and JavaScript.
 
 ## Certifications
 
