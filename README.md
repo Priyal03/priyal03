@@ -1,19 +1,11 @@
 ## About Me
 
-I am a passionate software engineer with expertise in building web applications and software solutions. My journey in software development began with a strong curiosity for technology, and over the years, I have honed my skills through hands-on experience, education and continuous learning.
+I am a passionate software engineer with expertise in building web applications and software solutions. My journey in software development began with a strong curiosity for technology, and over the years, I have honed my skills through hands-on experience, education, and continuous self-learning.
 
 - 💻 Full Stack Developer
 - 🌐 Web Development Enthusiast
-- 🚀 Always eager to learn and explore new technologies
+- 🚀 Always eager to learn and explore new possibilities
 
-## Skills
-
-- **Technologies**: Java 8, Rest API, SOAP web services, XML, JSON, EJB, Python, C, Docker, RabbitMQ, maven
-- **Methodologies**: SOA, Microservices, TDD, Agile
-- **Frameworks/Libraries**: Spring-Boot, Hibernate, JUnit, Mockito, Node.js, Express.js, React
-- **Databases**: Oracle DB, MySQL, Cassandra, MongoDB
-- **Tools**: Git, GitHub, Docker, AWS, Jenkins, Jira, Confluence, VSCode, Jenkins, IntelliJ IDE
-- **Cloud/Server**: AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Linux, WebLogic, Tomcat 
 
 ## Contact/Connect Me
 
